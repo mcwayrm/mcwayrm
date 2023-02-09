@@ -34,7 +34,7 @@
 - []()
 -->
 
-# Contact Info.:
+# Contact Info:
 
 mcway005@umn.edu
 
