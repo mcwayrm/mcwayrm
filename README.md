@@ -13,7 +13,6 @@
 
 - Development Economics
 - Environmental Economics
-- Impact Evaluation
 - Behavioral Economics
 - Urban Economics
 
