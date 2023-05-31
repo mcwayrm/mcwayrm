@@ -12,9 +12,9 @@
 # Research Interests:
 
 - Development Economics
-- Environmental Economics
 - Behavioral Economics
 - Urban Economics
+- Environmental Economics
 
 # Current Appointments: 
 
@@ -30,7 +30,11 @@
 
 <!-- # Packages: 
 
-- []()
+|Package|Version|Updated|Description|
+|----| ---- | ---- | ----- |
+| [bumparea](https://github.com/asjadnaqvi/stata-bumparea) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-bumparea) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-bumparea) | Package for ribbon plots |
+| [bumpline](https://github.com/asjadnaqvi/stata-bumpline) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-bumpline) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-bumpline) | Package for bump line charts |
+
 -->
 
 # Contact Info:
