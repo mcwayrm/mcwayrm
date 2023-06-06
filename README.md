@@ -18,6 +18,7 @@
 
 # Current Appointments: 
 
+- Research Assistant at the University of Minnesota (under Chengyan Yue)
 - Research Associate at the University of Michigan (under Dean Yang)
 
 # Current Projects: 
