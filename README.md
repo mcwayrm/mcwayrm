@@ -6,9 +6,6 @@
 ## Ph.D. Candidate in Applied Economics at the University of Minnesota
 
 
-*************
-
-
 # Research Interests:
 
 - Development Economics
@@ -19,12 +16,11 @@
 # Current Appointments: 
 
 - Research Assistant at the University of Minnesota (under Chengyan Yue)
-- Research Associate at the University of Michigan (under Dean Yang)
 
 # Current Projects: 
 
-- Economic damages of Locust swarms 
-- Economic value of protected areas 
+- Economic damages of locust swarms 
+- Economic value of protected areas in conservation
 - Economic damages of tornadoes in the United States
 - Female managers' influence on firm performance
 
