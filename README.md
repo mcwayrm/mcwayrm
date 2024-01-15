@@ -1,7 +1,3 @@
-<!--
-![banner](https://user-images.githubusercontent.com/49168245/182652219-4bca2f14-43ee-4986-9972-985438654198.png)
--->
-
 # Ryan McWay
 ## Ph.D. Candidate in Applied Economics at the University of Minnesota
 
@@ -9,19 +5,20 @@
 # Research Interests:
 
 - Development Economics
+- Environmental Economics
 - Behavioral Economics
 - Urban Economics
-- Environmental Economics
+
 
 # Current Appointments: 
 
-- Research Assistant at the University of Minnesota (under Chengyan Yue)
+- Teaching Assistant at the University of Minnesota (under Elizabeth Davis)
 
 # Current Projects: 
 
 - Economic damages of locust swarms 
 - Economic value of protected areas in conservation
-- Economic damages of tornadoes in the United States
+- Economic damages of tornadoes on cities in the United States
 - Female managers' influence on firm performance
 
 
@@ -34,13 +31,13 @@
 
 -->
 
-# Contact Info:
-
-mcway005@umn.edu
-
 # Personal Website: 
 
 https://mcwayrm.github.io/
+
+# Contact Info:
+
+mcway005@umn.edu
 
 ---
 
