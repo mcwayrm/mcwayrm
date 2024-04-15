@@ -7,7 +7,6 @@
 - Development Economics
 - Environmental Economics
 - Behavioral Economics
-- Urban Economics
 
 
 # Current Appointments: 
@@ -16,6 +15,7 @@
 
 # Current Projects: 
 
+- Global value of gross ecosystem product (GEP)
 - Economic damages of locust swarms 
 - Economic value of protected areas in conservation
 - Economic damages of tornadoes on cities in the United States
