@@ -4,8 +4,8 @@
 
 # Research Interests:
 
-- Development Economics
 - Environmental Economics
+- Development Economics
 - Behavioral Economics
 
 
