@@ -41,8 +41,6 @@ mcway005@umn.edu
 
 ---
 
-### :fire: Ryan's Github Stats :snowflake: :
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mcwayrm&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=mcwayrm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/NormanLo4319/github-readme-stats)
