@@ -19,7 +19,6 @@
 - Economic damages of locust swarms 
 - Economic value of protected areas in conservation
 - Economic damages of tornadoes on cities in the United States
-- Female managers' influence on firm performance
 
 
 <!-- # Packages: 
