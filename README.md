@@ -4,22 +4,21 @@
 
 # Research Interests:
 
-- Environmental Economics
+- Resource and Environmental Economics
 - Development Economics
 - Behavioral Economics
 
 
 # Current Appointments: 
 
-- Teaching Assistant at the University of Minnesota (under Elizabeth Davis)
+- Instructor at the University of Minnesota
+- Replicator at the University of Ottawa
 
 # Current Projects: 
 
-- Global value of gross ecosystem product (GEP)
-- Economic damages of locust swarms 
-- Economic value of protected areas in conservation
-- Economic damages of tornadoes on cities in the United States
-
+- [Global value of gross ecosystem product (GEP)](https://github.com/NatCapTEEMs/gep)
+- [APEC student seminar](https://github.com/apecseminar/apecseminar.github.io)
+- [mneceaccess](https://github.com/franc703/mneceaccess)
 
 # Packages: 
 
