@@ -4,15 +4,8 @@
 
 # Research Interests:
 
-- Resource and Environmental Economics
+- Environmental and Resource Economics
 - Development Economics
-- Behavioral Economics
-
-
-# Current Appointments: 
-
-- Instructor at the University of Minnesota
-- Replicator at the University of Ottawa
 
 # Current Projects: 
 
@@ -33,7 +26,7 @@ https://mcwayrm.github.io/
 
 # Contact Info:
 
-mcway005@umn.edu
+mcway005 at umn.edu
 
 ---
 
